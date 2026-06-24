@@ -5,14 +5,10 @@ Summative project for the Introduction to Machine Learning module. Compares trad
 ## Repository contents
 
 ```
-.
-├── Model-Training-and-Evaluation_HonourGod-Levison.ipynb   # main notebook (run this)
-├── crypto_scam_transaction_dataset.csv                      # dataset (20,000 transactions)
-├── figures/                                                  # plots saved by the notebook
 └── Crypto-Scam-Detection-Report/
-    ├── report.md            # full written report (IEEE citations)
-    └── video_script.md      # presentation video outline
-```
+    ├── Model-Training-and-Evaluation_HonourGod-Levison.ipynb   # main notebook (run this)
+    └── crypto_scam_transaction_dataset.csv                      # dataset (20,000 transactions)
+    └── figures/                                                  # plots saved by the notebook
 
 ## Problem statement
 
@@ -42,7 +38,6 @@ Random seed is fixed (42) for reproducibility. The Scikit-learn/XGBoost results 
 
 ## Links
 
-- **Report:** [Crypto-Scam-Detection-Report/report.md](Crypto-Scam-Detection-Report/report.md)
-- **Video script:** [Crypto-Scam-Detection-Report/video_script.md](Crypto-Scam-Detection-Report/video_script.md)
+- **Report:** [Crypto-Scam-Detection-Report/report.md](Crypto-Scam-Detection-Report/)
 - **GitHub repo:** `<add once pushed>`
 - **Presentation video:** `<add once recorded>`
