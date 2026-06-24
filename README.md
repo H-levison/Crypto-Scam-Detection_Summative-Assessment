@@ -38,6 +38,6 @@ Random seed is fixed (42) for reproducibility. The Scikit-learn/XGBoost results 
 
 ## Links
 
-- **Report:** [Crypto-Scam-Detection-Report/report.md](Crypto-Scam-Detection_Summative-Assessment/Crypto-Scam-Detection_Summative-Assessment-HonourGod-Levison.pdf)
+- **Report:** [Crypto-Scam-Detection_Summative-Assessment/Crypto-Scam-Detection_Summative-Assessment-HonourGod-Levison.pdf]
 - **GitHub repo:** `https://github.com/H-levison/Crypto-Scam-Detection_Summative-Assessment.git`
 - **Presentation video:** `<add once recorded>`
