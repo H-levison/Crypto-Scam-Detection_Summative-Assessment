@@ -9,7 +9,7 @@ Summative project for the Introduction to Machine Learning module. Compares trad
     ├── Model-Training-and-Evaluation_HonourGod-Levison.ipynb   # main notebook (run this)
     └── crypto_scam_transaction_dataset.csv                      # dataset (20,000 transactions)
     └── figures/                                                  # plots saved by the notebook
-
+```
 ## Problem statement
 
 Given metadata available at the moment a blockchain transaction executes (wallet history, transaction/gas amounts, chain/platform/token, behavioural scores), predict whether the transaction is associated with scam activity (`is_scam`). The dataset is imbalanced (7.25% positive) and the notebook explicitly addresses this through stratified splitting, class weighting, and PR-AUC-first evaluation rather than relying on raw accuracy.
