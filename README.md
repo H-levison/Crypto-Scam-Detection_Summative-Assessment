@@ -5,7 +5,7 @@ Summative project for the Introduction to Machine Learning module. Compares trad
 ## Repository contents
 
 ```
-└── Crypto-Scam-Detection-Report/
+── Crypto-Scam-Detection-Report/
     ├── Model-Training-and-Evaluation_HonourGod-Levison.ipynb   # main notebook (run this)
     └── crypto_scam_transaction_dataset.csv                      # dataset (20,000 transactions)
     └── figures/                                                  # plots saved by the notebook
@@ -39,5 +39,5 @@ Random seed is fixed (42) for reproducibility. The Scikit-learn/XGBoost results 
 ## Links
 
 - **Report:** [Crypto-Scam-Detection-Report/report.md](Crypto-Scam-Detection-Report/)
-- **GitHub repo:** `<add once pushed>`
+- **GitHub repo:** `https://github.com/H-levison/Crypto-Scam-Detection_Summative-Assessment.git`
 - **Presentation video:** `<add once recorded>`
